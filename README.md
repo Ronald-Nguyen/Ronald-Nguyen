@@ -1,9 +1,7 @@
 # Hallo, ich bin Ronald
 
 **Über mich:**
-- Ich bin [z.B. Informatik-Student / angehender Softwareentwickler / Web Developer].
-- Aktuell vertiefe ich meine Kenntnisse in **[z.B. React, TypeScript, Python oder Java]**.
-- Ich arbeite gerne an Projekten rund um **[z.B. Webentwicklung / Backend-Architektur / Software Engineering]**.
+- Ich bin Informatik-Student / angehender Softwareentwickler
 - Kontakt über [LinkedIn](https://de.linkedin.com/in/ronald-nguyen-).
 
 ---
